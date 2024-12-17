@@ -7,3 +7,4 @@ Within the repository you will find:
 2. A link to the PowerBI file (without a work account it was not possible to upload this in any other way)
 3. A Jupyter Notebook with Python analysis
 4. The original Master data Excel file
+5. The results of the Python exports as CSV files
